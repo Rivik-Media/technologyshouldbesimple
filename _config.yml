@@ -1,6 +1,7 @@
 # Site/SEO settings
 email: hello@rivikmedia.com
 baseurl: "/"
+url: "http://rivik-media.github.io/rivik-dev"
 paginate: 12
 paginate_path: "/page/:num"
 permalink: /:year/:month/:title/
