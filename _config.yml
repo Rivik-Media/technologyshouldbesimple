@@ -1,36 +1,30 @@
 # Site/SEO settings
-email: okay@samesies.io
+email: hello@rivikmedia.com
 baseurl: ""
 paginate: 12
 paginate_path: "/page/:num"
-permalink: /:year/:month/:day/:title/
+permalink: /:year/:month/:title/
 google_analytics: 
 
-name: Thomas Vaeth
-title: The Barber Theme
+name: Rivik Media
+title: Rivik Simple
 description: >
-  Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
-url: http://barber.samesies.io
-twitter_username: thomasvaeth
+  Based on the Barber theme for Jekyll built by Thomas Vaeth for Samesies.
+url: http://rivik.co
+twitter_username: rivikmedia
 default_img: /assets/images/seo.jpg
 social:
   - name: twitter
-    url: https://twitter.com/thomasvaeth
-  - name: instagram
-    url: https://www.instagram.com/thomas.vaeth/
-  - name: linkedin
-    url: https://www.linkedin.com/in/thomasvaeth/
+    url: https://twitter.com/rivikmedia
   - name: github
-    url: https://github.com/samesies
-  - name: codepen
-    url: https://codepen.io/thomasvaeth/
+    url: https://github.com/rivik-media
 
 # Contact settings
 contact_img: /assets/images/placeholder-28.jpg
 formcarry: https://formcarry.com/s/HkIo0nMb7
 
 # Disqus settings
-disqus: test-apkdzgmqhj
+disqus: 
 
 # MailChimp settings
 mailchimp_action: https://samesies.us17.list-manage.com/subscribe/post-json?u=66ddf555dab480e6a8606430b&amp;id=89b3ee034f
@@ -38,9 +32,9 @@ mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
 
 # Author settings
 author:
-  - name: Thomas Vaeth
-    bio: Thomas Vaeth was born in New York, raised in Pennsylvania, and transplanted in Washington. He was a Web Developer at Urban Influence, but now he's a Software Engineer at Getty Images.
-    url: http://thomasvaeth.com
+  - name: Stephen Woicik
+    bio: Stephen is the President and Co-Founder of Rivik Media. 
+    url: http://swoicik.com
 
 # Build settings
 markdown: kramdown
