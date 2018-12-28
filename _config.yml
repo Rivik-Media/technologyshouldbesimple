@@ -1,7 +1,6 @@
 # Site/SEO settings
 email: hello@rivikmedia.com
 baseurl: "/"
-url: "http://rivik-media.github.io/rivik-dev"
 paginate: 12
 paginate_path: "/page/:num"
 permalink: /:year/:month/:title/
@@ -11,7 +10,7 @@ name: Rivik Media
 title: Rivik Simple
 description: >
   Based on the Barber theme for Jekyll built by Thomas Vaeth for Samesies.
-url: http://rivik.co
+url: https://rivik-media.github.io/rivik-dev
 twitter_username: rivikmedia
 default_img: /assets/images/seo.jpg
 social:
