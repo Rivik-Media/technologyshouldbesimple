@@ -10,7 +10,7 @@ name: Rivik Media
 title: Rivik Simple
 description: >
   Based on the Barber theme for Jekyll built by Thomas Vaeth for Samesies.
-url: https://rivik-media.github.io/rivik-dev
+url: "http://rivik-media.github.io/rivik-dev"
 twitter_username: rivikmedia
 default_img: /assets/images/seo.jpg
 social:
