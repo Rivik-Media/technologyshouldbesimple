@@ -4,7 +4,7 @@ title: Rivik Media
 description: "Simple Is Better"
 keywords: "Jekyll, theme, free, download, SEO, blog, web"
 url: "https://rivik-media.github.io"
-baseurl: "/rivik-dev/"
+baseurl: "/"
 # baseurl: null
 
 google_analytics: 
