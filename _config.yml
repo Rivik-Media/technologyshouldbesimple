@@ -1,9 +1,9 @@
 
 # SEO settings
-title: Rivik Media
-stylished_title: <span>Rivik</span>Media
+title: Technoogy Should Be Simple
+stylished_title: <span>Technology</span> Should Be Simple
 description: "Simple Is Better."
-keywords: "TIL, web, coding, machine learning, computer vision, neuroscience, math"
+keywords: "technology, web, coding, software, business, small businss"
 url: https://rivik-media.github.io
 baseurl: ""
 
@@ -44,7 +44,7 @@ author:
 twitter_site: "@swoicik"
 
 project:
-    repo: https://github.com/codinfox/TIL
+    repo: https://github.com/rivik-media/rivik-media.github.io 
     name: Rivik Dev
     author: swoicik
 
