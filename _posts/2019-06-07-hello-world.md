@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Hello world!
+title:  Hello World!
 comments: true
 tags:
 - Annoucement
