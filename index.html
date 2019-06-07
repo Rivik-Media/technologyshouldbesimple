@@ -13,12 +13,13 @@ title: Home
     {% for post in paginator.posts %}
       <article class="post-item">
         <p>
-            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-            —
             <strong>
                 <a class="post-link" href="{{ post.url | prepend: site.github.url }}">{{ post.title }}</a>
             </strong>
             —
+            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+            -
+            
             <span> {{ post.content | strip_html | truncatewords: 40 }}</span>
             <a class="post-link readmore" href="{{ post.url | prepend: site.github.url }}">Read more</a>
         </p>
