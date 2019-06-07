@@ -12,11 +12,12 @@ title: Home
 
     {% for post in paginator.posts %}
       <article class="post-item">
-        <p>
+        <h2>
             <strong>
                 <a class="post-link" href="{{ post.url | prepend: site.github.url }}">{{ post.title }}</a>
             </strong>
-            —
+        </h2>
+        <p>
             <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
             -
             
