@@ -111,6 +111,10 @@ hr {
   span {
     font-weight: 700;
   }
+  
+  a {
+    color: #fff;
+  }
 }
 
 .nav {
@@ -131,7 +135,7 @@ hr {
   }
 
   a {
-    @extend .link;
+    color: #fff;
   }
 }
 
