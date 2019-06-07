@@ -74,7 +74,7 @@ hr {
   margin-bottom: $small-spacing;
   min-height: 80px;
   background: #111;
-  color: #fff;
+  color: $white-color;
 }
 
 .intro {
@@ -113,7 +113,7 @@ hr {
   }
   
   a {
-    color: #fff;
+    color: $white-color;
   }
 }
 
@@ -142,7 +142,7 @@ hr {
 }
 
 .post-list {
-  background-color: lighten(#eaeaea, 17%);
+  background-color: lighten($white-color, 17%);
   padding: $base-spacing 0;
 }
 
