@@ -3,7 +3,7 @@ layout: post
 title:  Hello World!
 comments: true
 tags:
-- Annoucement
+- Annoucements
 ---
 Welcome to the new Technology Should Be Simple website. This site has been through a few variations over the years. It was originally the first blog I built as part of a college project. That was a long time ago though. The site has since been incorporated into Rivik Media in several different ways. However, it has sat dormant for the last two years. 
 
