@@ -141,6 +141,11 @@ hr {
   }
 }
 
+.post-title {
+  font-weight: bold;
+  text-align: center; 
+}
+
 .post-list {
   background-color: lighten($white-color, 17%);
   padding: $base-spacing 0;
@@ -246,17 +251,6 @@ hr {
   }
 }
 
-.disqus {
-  background-color: lighten($light-gray-color, 16%);
-  padding: $base-spacing 0;
-
-  hr {
-    margin: $base-spacing 0;
-  }
-  p { 
-    text-align: center;
-  }
-}
 
 .site-footer {
   @extend .clearfix;
