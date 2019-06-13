@@ -7,9 +7,6 @@ keywords: "technology, web, coding, software, business, small businss"
 url: https://technologyshouldbesimple.com
 baseurl: ""
 
-# google_analytics: UA-50842645-1
-# disqus_shortname: "codinfox"
-
 # Build settings
 permalink   : /:year/:title/
 markdown    : kramdown
@@ -34,9 +31,7 @@ author:
   email    : hello@rivikmedia.com
   url      : https://rivikmedia.com
   github   : https://github.com/rivik-media
-# twitter  : https://twitter.com/rivikmedia
-  facebook : 
-# linkedin : 
+  twitter  : https://twitter.com/rivikmedia
 
 # social settings
 # og_locale: "pt_BR"
