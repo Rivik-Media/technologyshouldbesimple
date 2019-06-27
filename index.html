@@ -12,11 +12,18 @@ title: Home
 
     {% for post in paginator.posts %}
       <article class="post-item">
-        <h2>
+        {% if page.external-url %}
+		      <h2>
+			      <a class="post-link" href="{{ page.external-url }}">{{ page.title }} →</a> 
+		      </h2>
+	      {% else %}
+		      <h2>
             <strong>
                 <a class="post-link" href="{{ post.url | prepend: site.github.url }}">{{ post.title }}</a>
             </strong>
-        </h2>
+          </h2>
+        {% endif %}
+        
         <p>
             <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
             -
