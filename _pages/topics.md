@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Topics
-layout: page
 permalink: /topics/
 ---
 
