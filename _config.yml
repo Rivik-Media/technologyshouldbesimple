@@ -16,6 +16,8 @@ paginate: 5
 paginate_path: "/page/:num/"
 comments: true
 
+include: ['_pages']
+
 #source: source
 destination: _site
 
