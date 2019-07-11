@@ -17,7 +17,7 @@ It was way more than a website refresh, it was a new identity for the company. A
 
 Building a better customer was a driving idea behind it. How can we do more for our clients beyond getting them a website? How can we help them navigate being a small business online? 
 
-It also led to starting a [newsletter](https://rivikmedia.com/newsletter) (and a few other projects to look out for). A way to share the information we've gained from years of owning a small business, and working with great small business owners. 
+It also led to starting a [newsletter](https://technologyshouldbesimple.com/newsletter) (and a few other projects to look out for). A way to share the information we've gained from years of owning a small business, and working with great small business owners. 
 
 Here are a couple links that were helpful during this process. 
 
