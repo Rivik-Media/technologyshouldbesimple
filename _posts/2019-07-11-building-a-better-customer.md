@@ -8,7 +8,7 @@ tags:
 - Branding
 ---
 > Upgrade your user, not your product. Value is less about the stuff and more about the stuff the stuff enables. Don't build better cameras -- build better photographers.
-
+>
 > Kathy Sierra
 
 For the past several months, [Rivik Media](https://rivikmedia.com) has been building a new website. It was a slow, very slow, process. Not because of the technical difficulty, but because of the research, psychology, and thought, that went into the site.
