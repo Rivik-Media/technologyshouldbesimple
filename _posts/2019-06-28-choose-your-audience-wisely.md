@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Choose Your Audience Wisely →
+author: Stephen Woicik
 comments: true
 external-url: https://justinjackson.ca/who-do-you-love
 tags:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Action Speaks Louder
+author: Stephen Woicik
 comments: true
 post_date: 2019-07-14
 tags:

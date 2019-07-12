@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Hello World!
+author: Stephen Woicik
 comments: true
 tags:
 - Annoucements

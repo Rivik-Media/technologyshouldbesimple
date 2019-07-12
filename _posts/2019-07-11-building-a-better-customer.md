@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Building A Better Customer
+author: Stephen Woicik
 comments: true
 tags:
 - Marketing
