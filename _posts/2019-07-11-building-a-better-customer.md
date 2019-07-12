@@ -26,8 +26,3 @@ Here are a couple links that were helpful during this process.
 [1000 True Fans](https://kk.org/thetechnium/1000-true-fans/) - We have shared this article a few times in the past. It should be required reading for anyone looking to start a company, business, or side project to make money. 
 
 A question to other business owners out there. What do you do to education your customers? Is that something you focus on? Do you think it's relevant to your business?
-
-
-
-
-
